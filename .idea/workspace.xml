@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc4447ca-9574-47e0-81a3-6a323ba62efd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fc4447ca-9574-47e0-81a3-6a323ba62efd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="170" column="44" selection-start-line="170" selection-start-column="44" selection-end-line="170" selection-end-column="44" />
+            <state relative-caret-position="291">
+              <caret line="54" column="128" selection-start-line="54" selection-start-column="108" selection-end-line="54" selection-end-column="128" />
               <folding>
                 <element signature="n#section#0;n#div#0;n#div#0;n#div#3;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#3;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -99,6 +96,11 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/images/resume-profile.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -108,6 +110,7 @@
       <find>https://github.com/jxl19960202</find>
       <find>python 后端开发工程师</find>
       <find>教育</find>
+      <find>assets/images/12.jpg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,6 +146,17 @@
             <path>
               <item name="jxl19960202.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="jxl19960202.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jxl19960202.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jxl19960202.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jxl19960202.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jxl19960202.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,10 +198,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="23" width="1256" height="801" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15074135" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -245,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="170" column="44" selection-start-line="170" selection-start-column="44" selection-end-line="170" selection-end-column="44" />
+        <state relative-caret-position="291">
+          <caret line="54" column="128" selection-start-line="54" selection-start-column="108" selection-end-line="54" selection-end-column="128" />
           <folding>
             <element signature="n#section#0;n#div#0;n#div#0;n#div#3;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#3;n#article#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -326,6 +339,12 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/resume-profile.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
